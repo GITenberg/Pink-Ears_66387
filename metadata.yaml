@@ -1,5 +1,8 @@
 _repo: Pink-Ears_66387
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66387-h/images/cover.jpg
 creator:
   author:
     agent_name: Leinster, Murray
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7321
     wikipedia: https://en.wikipedia.org/wiki/Murray_Leinster
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66387#Pink-Ears
 gutenberg_issued: '2021-09-28'
 identifiers:
   gutenberg: '66387'
